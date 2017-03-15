@@ -1,3 +1,4 @@
+package jitpack;
 
 public class Hello {
   
